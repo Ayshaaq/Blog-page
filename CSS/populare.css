@@ -1,0 +1,47 @@
+ /*            LEFT-SIDE         */
+  
+                        /*      populare-content  */
+
+            .populare-content{
+                position: relative;
+            }
+            .populare-img{
+                width: 100px;
+                height: 50px;
+
+            }
+            .populare-img img{
+                width: 100%;
+            }
+
+            .populare-content a{
+                display: inline-block;
+                position: absolute;
+                top:0px;
+                left: 110px;
+                color: #10161A;
+                text-decoration: none;
+                font-weight: 300;
+
+
+            }
+
+                .populare-content a:hover ,
+.populare-content img:hover {
+    opacity: .8;
+    
+}
+.populare-content a:hover{
+    color: #6195FF;
+}
+
+            .populare-content span{
+                display: inline-block;
+                position: absolute;
+                top:24px;
+                left: 110px;
+                color: #6195ff;
+                font-size: 14px;
+
+
+            }

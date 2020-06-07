@@ -1,0 +1,105 @@
+                   /*      RIGHT-SIDE IMG        */
+                    /* post section */
+
+.post{
+ margin-bottom: 100px;
+    position: relative;
+
+}
+.post-img{
+
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    margin-bottom: 100px;
+    width: 60%;
+   
+}
+.post-img img{
+    width: 100%;
+}
+
+                /*          RIGHT SIDE       */
+
+                   /*   post-content  */   
+                  
+.post-content{
+    position: absolute;
+    top: 600px;
+    left: 120px;
+    
+}   
+
+.post-content .post-details ul{
+    list-style: none;
+}
+    
+.post-content{
+    position: absolute;
+    width: 60%;
+   
+}
+.post-content .post-details li{
+    display: inline-block;
+    color: #10161A;
+    padding-right: 10px;
+}
+    
+.post-content .post-details li i {
+    color: #6195ff;
+}
+    
+.post-content .post-details  h3{
+    margin: 20px 0;
+    
+}  
+.post-content .post-details p{
+    color: #868F9B;
+    line-height: 1.8;
+    letter-spacing: .2;
+    margin-bottom: 30px;
+} 
+
+
+        /*    Tags */
+    
+.post-content .tags{
+    margin-bottom: 30px;
+}
+
+
+.post-content .tags h4{
+    color: #10161A;
+    display: inline-block;
+    
+}
+   
+.post-content .tags i{
+    color: #6195FF;
+    margin-right: 5px;
+    
+}
+
+.post-content .tags a{
+    background-color: #f4f4f4;
+    display: inline-block;
+    margin: 0 2px;
+    padding: 8px 12px;
+    color: #10161A;
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}    
+    
+
+.post-content .tags a:hover {
+    background-color: #6195FF;
+    color: #fff;
+    opacity: .8;
+}
+
+.post-content .tags a:hover i{
+    color: #fff;
+}
+
+  

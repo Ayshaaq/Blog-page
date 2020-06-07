@@ -1,0 +1,23 @@
+
+            /*  LEFT-SECTION   */
+            /*            Tags-buttons   */
+            .tags-buttons a{
+                display: inline-block;
+                text-decoration: none;
+                background-color: #f4f4f4;
+                color: #10161A;
+                font-size: 14px;
+                text-transform: capitalize;
+                padding: 10px 12px;
+                margin-bottom: 7px;
+                margin-right: 4px;
+
+                }
+
+            .tags-buttons a:hover {
+                background-color: #6195FF;
+                color: #fff;
+
+            }
+
+
